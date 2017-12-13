@@ -9,7 +9,7 @@ Package.describe({
 });
 
 Package.onUse(function (api) {
-  api.use('ecmascript');
+  api.use('ecmascript@0.9.0');
   api.export('Tracker');
   api.export('Deps');
   api.addFiles('tracker.js');
