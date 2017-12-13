@@ -1,6 +1,11 @@
 Package.describe({
-  summary: "Dependency tracker to allow reactive callbacks",
-  version: '1.1.3'
+  // What this package does
+  summary: "Dependency tracker to allow reactive callbacks using Vue",
+  version: '0.0.1',
+  // Optional, default is package directory name
+  name: 'meteormogul:mogul-tracker',
+  // Optional GitHub URL to your source repository
+  git: 'https://github.com/meteor-mogul/mogul-tracker.git'
 });
 
 Package.onUse(function (api) {
