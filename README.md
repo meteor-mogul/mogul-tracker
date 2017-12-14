@@ -1,3 +1,5 @@
+Note: Project currently mothballed. I'm working instead on a simpler approach: just wrap vue.js as a meteor package.
+
 # Meteor Mogul Tracker
 
 Fork of vue+meteor's Vue-based Tracker, which in turn is based on Meteor Tracker.
