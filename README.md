@@ -1,4 +1,4 @@
-Note: Project currently mothballed. I'm working instead on a simpler approach: just wrap vue.js as a meteor package.
+Note: This fork currently mothballed. I'm working instead on a simpler approach: just wrap vue.js as a meteor package.
 
 # Meteor Mogul Tracker
 
